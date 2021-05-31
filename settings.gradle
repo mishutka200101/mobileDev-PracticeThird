@@ -1,0 +1,8 @@
+include ':systemuntentsapp'
+include ':simplefragmentapp'
+include ':share'
+include ':resultactivity'
+include ':mireaproject'
+include ':intentapp'
+include ':app'
+rootProject.name = "PracticeThird"
